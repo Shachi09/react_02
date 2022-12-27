@@ -1,0 +1,44 @@
+
+.img{
+    height: 50vh;
+}
+
+.display{
+    margin-left: 4rem;
+}
+
+.navbar{
+    background-color: black !important;
+}
+
+
+.hm{
+    font-size: larger;
+    text-align: center;
+    margin-top: 5rem;
+}
+
+.table{
+    border: 1px solid black;
+}
+
+.main{
+    display: flex;
+
+}
+
+.myForm{
+    border: 2px solid darkgreen;
+    /* border-radius: 20%; */
+    margin: 3rem;
+    height: 50vh;
+    width: 30vw;
+    
+}
+
+.data{
+    height: 50vh;
+    width: 30vw;
+    border: 2px solid grey;
+    margin: 3rem;
+}
